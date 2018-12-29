@@ -39,4 +39,6 @@ dependencies {
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
     compile 'com.squareup.okhttp3:okhttp:3.4.1'
     implementation project(':framelibrary')
+    implementation project(':pickerview')
+    compile 'com.google.code.gson:gson:2.7'
 }

@@ -24,4 +24,13 @@
         android:layout_height="wrap_content"
         android:text="When a user is navigating a user interface via directional keys such as a D-pad, it is necessary to give focus to actionable items such as buttons so the user can see what will take input.  If the device has touch capabilities, however, and the user begins interacting with the interface by touching it, it is no longer necessary to always highlight, or give focus to, a particular view.  This motivates a mode for interaction named 'touch mode'."
         />
+    <com.example.jnilearn.customview.QQStepView
+        android:id="@+id/step_view"
+        app:outerColor="@color/colorPrimary"
+        app:innerColor="@color/colorAccent"
+        app:borderWidth="20dp"
+        app:stepTextColor="@color/colorAccent"
+        app:stepTextSize="30sp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 </LinearLayout>

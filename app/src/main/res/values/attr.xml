@@ -29,4 +29,13 @@
           <attr name="alignOnlyOneLine" format="boolean" />
 
     </declare-styleable>
+
+
+    <declare-styleable name="QQStepView">
+        <attr name="outerColor" format="color"/>
+        <attr name="innerColor" format="color" />
+        <attr name="borderWidth" format="dimension"/>
+        <attr name="stepTextSize" format="dimension" />
+        <attr name="stepTextColor" format="color"/>
+    </declare-styleable>
 </resources>

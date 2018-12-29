@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/JniLearn.iml" filepath="$PROJECT_DIR$/JniLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/framelibrary/framelibrary.iml" filepath="$PROJECT_DIR$/framelibrary/framelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pickerview/pickerview.iml" filepath="$PROJECT_DIR$/pickerview/pickerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wheelview/wheelview.iml" filepath="$PROJECT_DIR$/wheelview/wheelview.iml" />
     </modules>
   </component>
 </project>

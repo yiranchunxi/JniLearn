@@ -69,6 +69,8 @@ public class TestActivity extends BaseSkinActivity {
         });
 
         View.MeasureSpec.makeMeasureSpec(Integer.MAX_VALUE>>2, View.MeasureSpec.AT_MOST);
+
+
     }
 
     @Override
